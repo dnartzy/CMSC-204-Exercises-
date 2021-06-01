@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\BSTS\BSTS.exe
+C:\Users\user\source\repos\BSTS\BSTS.dll
+C:\Users\user\source\repos\BSTS\BSTS.deps.json
+C:\Users\user\source\repos\BSTS\BSTS.runtimeconfig.json
+C:\Users\user\source\repos\BSTS\BSTS.pdb

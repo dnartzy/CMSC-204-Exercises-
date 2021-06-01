@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\BSTS\BSTS\bin\Debug\netcoreapp3.1\BSTS.exe
+C:\Users\user\source\repos\BSTS\BSTS\bin\Debug\netcoreapp3.1\BSTS.deps.json
+C:\Users\user\source\repos\BSTS\BSTS\bin\Debug\netcoreapp3.1\BSTS.runtimeconfig.json
+C:\Users\user\source\repos\BSTS\BSTS\bin\Debug\netcoreapp3.1\BSTS.runtimeconfig.dev.json
+C:\Users\user\source\repos\BSTS\BSTS\bin\Debug\netcoreapp3.1\BSTS.dll
+C:\Users\user\source\repos\BSTS\BSTS\bin\Debug\netcoreapp3.1\BSTS.pdb
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.AssemblyInfo.cs
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.dll
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.pdb
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.genruntimeconfig.cache
+C:\Users\user\source\repos\BSTS\BSTS\obj\Debug\netcoreapp3.1\BSTS.csprojAssemblyReference.cache
