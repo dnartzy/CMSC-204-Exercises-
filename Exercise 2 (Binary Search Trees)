@@ -1,0 +1,119 @@
+using System;
+using System.Collections.Generic;
+
+namespace Exercise2
+{
+    class Node
+    {
+        public int value;
+        public Node left, right;
+        
+        public Node(int val)
+        {
+            value = val;
+        
+        }
+    } //End Class Node
+    class Program
+    {
+        static Node root = null;
+        static void Main(string[] args)
+        {
+            string userInput = "";
+            while (userInput != "9")
+            {
+                Console.WriteLine(@"
+Select an option below:
+
+[1] Inser node to binary tree
+[2] Delete node from binary tree
+[3] Minimum
+[4] Maximum
+[5] Successor 
+[6] Predecessor
+[7] Search Node
+[8] Print BST
+[9] Exit
+
+Enter choice: ");
+
+                userInput = Console.ReadLine();
+                switch (userInput)
+                {
+                    case "1":
+                        InsertNode();
+                        break;
+                    case "2":
+                        DeleteNode();
+                        break;
+                    case "3":
+                        Minimum();
+                        break;
+                    case "4":
+                        Maximum();
+                        break;
+                    case "5":
+                        Successor();
+                        break;
+                    case "6":
+                        Predecessor();
+                        break;
+                    case "7":
+                        Search();
+                        break;
+                    case "8":
+                        Print();
+                        break;
+                    default:
+                        Console.Clear();
+                        Console.WriteLine("Program is now quitting");
+                        break;
+
+                } //End Switch
+
+            } //End While
+
+        } //End Static Main
+
+        static void InsertNode()
+        {
+
+        } //End InsertNode()
+
+        static void DeleteNode()
+        {
+
+        } //End DeleteNode() 
+
+        static void Minimum()
+        {
+
+        } //End Minimum
+
+        static void Maximum()
+        {
+
+        } // End Maximum
+
+        static void Successor()
+        {
+
+        } //End Successor
+
+        static void Predecessor()
+        {
+
+        } //End Predecesor
+
+        static void Search()
+        {
+
+        } //End Search
+
+        static void Print()
+        {
+
+        } //End Print
+
+    } //End Class
+}
