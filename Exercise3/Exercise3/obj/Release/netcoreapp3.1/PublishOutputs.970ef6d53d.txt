@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Exercise3\Exercise3\bin\publish\Exercise3.exe
+C:\Users\user\source\repos\Exercise3\Exercise3\bin\publish\Exercise3.dll
+C:\Users\user\source\repos\Exercise3\Exercise3\bin\publish\Exercise3.deps.json
+C:\Users\user\source\repos\Exercise3\Exercise3\bin\publish\Exercise3.runtimeconfig.json
+C:\Users\user\source\repos\Exercise3\Exercise3\bin\publish\Exercise3.pdb
